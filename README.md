@@ -63,31 +63,34 @@ extracted from the data.
 
 ### Overview
 
-*Add your Overview screenshot here.*
+![Overview Dashboard](overview.png.png)
 
 ### Detailed Analysis
 
-*Add your Detailed Analysis screenshot here.*
+![Detailed Analysis](detailed-analysis.png.png)
 
 ### Key Insights
 
-*Add your Key Insights screenshot here.*
+![Key Insights](key-insights.png.png)
 
 ------------------------------------------------------------------------
 
-## 🎥 Demo
+## 🎥 Dashboard Demo
 
-A short demonstration video showcasing the dashboard's interactive
-features is included in this repository.
+The repository includes a short demonstration video showcasing the dashboard's interactive features.
+
+📂 Location:
+demo/dashboard-demo.mp4
 
 ------------------------------------------------------------------------
 
 ## 🚀 How to Use
 
-1.  Download the `.pbix` file.
-2.  Open it using **Microsoft Power BI Desktop**.
-3.  Explore the dashboard using the available interactive filters and
-    visuals.
+1. Download the repository or the `.pbix` file.
+2. Open the project using **Microsoft Power BI Desktop**.
+3. If prompted, reconnect the dataset (`CarPrice.csv`) by updating the data source path.
+4. Use the slicers (Brand, Car Body, and Fuel System) to interact with the dashboard.
+5. Navigate between the **Overview**, **Details**, and **Key Insights** pages to explore the analysis.
 
 ------------------------------------------------------------------------
 
@@ -97,7 +100,8 @@ features is included in this repository.
 
 If you have any feedback or suggestions, feel free to connect with me on
 LinkedIn or GitHub.
-
+GitHub: https://github.com/huss148
+LinkedIn: https://www.linkedin.com/in/hussain-khaled-77a791316
 ------------------------------------------------------------------------
 
 ### ⭐ If you found this project interesting, consider giving the repository a star!
